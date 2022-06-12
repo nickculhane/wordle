@@ -43,7 +43,7 @@ def next_guess(words):
     return user_guess
 
 def play():
-    print("Python Wordle clone - created by " + Fore.GREEN + "Nick Culhane " + Fore.WHITE + "on May 24, 2022\n" + Fore.CYAN)
+    print("Python Wordle clone - created by " + Fore.GREEN + "Nick Culhane " + Fore.CYAN)
     num_guesses = input("How many guesses do you want? ")
     while not num_guesses.isnumeric():
         num_guesses = input("How many guesses do you want? (whole number, more than 0) ")
