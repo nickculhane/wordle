@@ -12,3 +12,4 @@ Download this Github project as a zip file, then unzip. Make sure colorama is in
     - Green - Letter is in the actual word, and is in the correct spot.
     - Yellow - Letter is in the actual word, but is in the wrong spot.
   - Use the information given to guess the next word until you get it right or run out of guesses.
+#***I do not own the rights to Wordle, all rights owned by The New York Times Company. This is just a project I made in my spare time.***
